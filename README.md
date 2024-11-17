@@ -3,11 +3,10 @@
 Chapter 1: Python Basics
 
 * Introduction to Python
-
-* Variables
-* Data Types
-* Operators
-* Functions
+  * Variables
+  * Data Types
+  * Operators
+  * Functions
 * Classes
 * Python Standard Libraries
 * datetime
